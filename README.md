@@ -1,6 +1,6 @@
 # Resume/CV of Jun Song
 
-[See the latest resume (20251128)](./resume/20251128.pdf).
+[See the latest resume (20260601)](./resume/20260601.pdf).
 
 ## Acknowledgement
 
